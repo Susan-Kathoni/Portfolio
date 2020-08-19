@@ -1,6 +1,6 @@
-# Susan-Kathoni's website
-[a link](https://susan-kathoni.github.io/Portfolio)
-This website gives a brief description of who I am 
+# Susan-Kathoni's website  
+This website ([my website](https://susan-kathoni.github.io/Portfolio)
+) gives a brief description of who I am 
 - my name,
 - educational background, 
 - job experience, 
