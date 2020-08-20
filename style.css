@@ -2,10 +2,10 @@
   margin-left: 50px
 }
 
-body { 
+body style { 
       background-color: yellowgreen;
       display: inline-block;
-      text-justify: distribute-all-lines;
+      text-align: justify;
       text-decoration-color: rgb(48, 5, 5);text-emphasis: bold;
 
      }
