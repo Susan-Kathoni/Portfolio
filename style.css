@@ -7,14 +7,12 @@ body {
 }
 p {
   border: 3px yellowgreen;
-  padding: 30px
-  font-family: verdana;
-  font-size: medium;
-  font-style: normal;
+  padding: 30px;
+  font: 1em sans-serif;
 }
 
 
-}
+
       
 
      
