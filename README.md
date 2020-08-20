@@ -9,6 +9,7 @@ This website ([my website](https://susan-kathoni.github.io/Portfolio)
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript
 
 ## Support and contact details     
 This repository is open to editions, contributions or any other suitable uses.       
