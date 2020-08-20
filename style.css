@@ -1,3 +1,10 @@
 #nav{
   margin-left: 50px
 }
+
+body {
+      background-color: blueviolet;
+      display: inline-block;
+      text-justify: distribute-all-lines;
+      text-decoration-color: red;text-emphasis: bold;
+   }
