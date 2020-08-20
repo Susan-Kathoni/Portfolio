@@ -5,11 +5,16 @@
 body {
   background-color: thistle;
 }
+
 p {
   border: 3px yellowgreen;
-  padding: 30px;
   font: 1em sans-serif;
+  font-size: 30px;
 }
+
+
+
+
 
 
 
