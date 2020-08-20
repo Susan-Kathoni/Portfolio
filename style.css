@@ -6,7 +6,7 @@ body {
       background-color: yellowgreen;
       display: inline-block;
       text-justify: distribute-all-lines;
-      text-decoration-color: red;text-emphasis: bold;
+      text-decoration-color: rgb(48, 5, 5);text-emphasis: bold;
 
      }
    
