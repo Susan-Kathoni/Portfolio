@@ -2,8 +2,7 @@
   margin-left: 50px
 }
 
-body {
-     <p> {
+body { <p> {
       background-color: yellowgreen;
       display: inline-block;
       text-justify: distribute-all-lines;
