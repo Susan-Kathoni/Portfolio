@@ -2,12 +2,16 @@
   margin-left: 50px
 }
 
-<body> {
-      background-color: yellowgreen;
-      display: inline-block;
-      text-align: justify;
-      text-decoration-color: rgb(48, 5, 5)
-
+body {
+  background-color: thistle;
+}
+p {
+  border: 3px yellowgreen;
+  padding: 30px
+  font-family: verdana;
+  font-size: medium;
+  font-style: normal;
+}
 
 
 }
