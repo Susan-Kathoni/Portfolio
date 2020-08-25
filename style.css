@@ -1,17 +1,18 @@
-head {
-    background-color: hotpink;
-}
 
 body {
     align-content: center;
-    background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
+    background-image: linear-gradient(direction, color-green, color-yellowgreen);
     padding: 20px;
 }
 
 .logo {
     margin-top: 30px;
     border-image-outset: 5px;
-    align-self: center;
+    align-self: left;
+}
+
+#header {
+    background-color: palevioletred;
 }
 
 
